@@ -13,3 +13,4 @@ Also add your name to the contributors part.
 # Contributors
 
 * Ozan Akın
+* Aman Pandey
