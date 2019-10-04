@@ -22,3 +22,4 @@ Also add your name to the contributors part.
 * lass7965
 * Emmanuel Carreira
 * Pranav Natekar
+* [Edward Amor](https://github.com/Skellet0r)
