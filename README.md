@@ -18,3 +18,4 @@ Also add your name to the contributors part.
 * Andrew Reid
 * lass7965
 * Emmanuel Carreira
+* Pranav Natekar
