@@ -14,3 +14,4 @@ Also add your name to the contributors part.
 
 * Ozan Akın
 * Aman Pandey
+* [Deniz Koluaçık](https://github.com/koluacik)
