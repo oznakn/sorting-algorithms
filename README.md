@@ -17,6 +17,7 @@ Also add your name to the contributors part.
 * Ozan Akın
 * Aman Pandey
 * [Deniz Koluaçık](https://github.com/koluacik)
+* [Cengizhan Basak](https://github.com/cengizhanbasak)
 * Andrew Reid
 * lass7965
 * Emmanuel Carreira
