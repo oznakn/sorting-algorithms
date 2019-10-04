@@ -23,3 +23,4 @@ Also add your name to the contributors part.
 * Emmanuel Carreira
 * Pranav Natekar
 * [Mustafa Ozan Alpay](https://github.com/frozsgy)
+* [Lampa](https://github.com/swetlana-spb)
