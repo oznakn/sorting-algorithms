@@ -17,3 +17,4 @@ Also add your name to the contributors part.
 * [Deniz Koluaçık](https://github.com/koluacik)
 * Andrew Reid
 * lass7965
+* Emmanuel Carreira
