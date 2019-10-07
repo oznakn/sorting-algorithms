@@ -22,5 +22,7 @@ Also add your name to the contributors part.
 * lass7965
 * Emmanuel Carreira
 * Pranav Natekar
+* [Edward Amor](https://github.com/Skellet0r)
 * [Mustafa Ozan Alpay](https://github.com/frozsgy)
+* [Lampa](https://github.com/swetlana-spb)
 * Oleksii Ovdiienko
