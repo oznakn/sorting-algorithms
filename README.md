@@ -24,3 +24,4 @@ Also add your name to the contributors part.
 * Pranav Natekar
 * [Edward Amor](https://github.com/Skellet0r)
 * [Mustafa Ozan Alpay](https://github.com/frozsgy)
+* [Lampa](https://github.com/swetlana-spb)
