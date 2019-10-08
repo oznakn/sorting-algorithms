@@ -25,3 +25,4 @@ Also add your name to the contributors part.
 * [Edward Amor](https://github.com/Skellet0r)
 * [Mustafa Ozan Alpay](https://github.com/frozsgy)
 * [Lampa](https://github.com/swetlana-spb)
+* Oleksii Ovdiienko
