@@ -14,7 +14,7 @@ Also add your name to the contributors part.
 
 # Contributors
 
-* Ozan Akın
+* [Ozan Akın](https://github.com/oznakn)
 * Aman Pandey
 * [Deniz Koluaçık](https://github.com/koluacik)
 * [Cengizhan Basak](https://github.com/cengizhanbasak)
