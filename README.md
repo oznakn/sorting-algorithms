@@ -18,6 +18,7 @@ Also add your name to the contributors part.
 * Aman Pandey
 * [Deniz Koluaçık](https://github.com/koluacik)
 * [Cengizhan Basak](https://github.com/cengizhanbasak)
+* [Vishwanath Seshagiri](https://thebrahminator.github.io)
 * Andrew Reid
 * lass7965
 * Emmanuel Carreira
