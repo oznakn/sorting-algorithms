@@ -29,3 +29,4 @@ Also add your name to the contributors part.
 * Oleksii Ovdiienko
 * [Kayacan](https://github.com/kayacanv)
 * [Ahmet Burak Baraklı](https://github.com/ahmetburakbarakli)
+* Selena Hättasch
