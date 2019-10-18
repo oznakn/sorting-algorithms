@@ -30,3 +30,4 @@ Also add your name to the contributors part.
 * [Kayacan](https://github.com/kayacanv)
 * [Ahmet Burak Baraklı](https://github.com/ahmetburakbarakli)
 * Selena Hättasch
+* Philipp Hoffmann
