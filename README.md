@@ -35,3 +35,4 @@ Also add your name to the contributors part.
 * [ucanyiit](https://github.com/ucanyiit)
 * Vagharshak Baghdasaryan
 * [Deniz Eren Yılmaz](https://github.com/derenyilmaz)
+* [Seral Buse Atak](https://github.com/heripotir)
